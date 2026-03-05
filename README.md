@@ -15,7 +15,7 @@ I enjoy working with data, building dashboards, and discovering insights from da
 
 ## 🚀 Current Focus
 
-🔭 Working on **Customer Shopping Behavior Analysis**  
+🔭 Recently worked on **Customer Shopping Behavior Analysis**  
 🌱 Learning **Machine Learning, Power BI, and Python for Data Analysis**  
 👯 Looking to collaborate on **Data Science Projects**
 
