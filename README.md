@@ -52,6 +52,13 @@ Power BI dashboard analyzing customer purchasing patterns and sales trends.
 
 🔗 https://github.com/SamadhiDBS/Customer_shopping_behavior_analysis
 
+## Wumpus World
+
+Simplified Wumpus World game in Python using Pygame. Control the agent, avoid pits and the Wumpus, and collect gold while following sensory hints like breeze and glitter.
+
+🔗 https://github.com/SamadhiDBS/wumpus-world
+
+
 ⭐ More data science and analytics projects will be added soon.
 
 ---
