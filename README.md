@@ -15,7 +15,7 @@ I enjoy working with data, building dashboards, and discovering insights from da
 
 ## 🚀 Current Focus
 
-🔭 Recently worked on **Customer Shopping Behavior Analysis**  
+🔭 Recently worked on **Laptop Price Predictor | Live ML-Powered Price Estimation**  
 🌱 Learning **Machine Learning, Power BI, and Python for Data Analysis**  
 👯 Looking to collaborate on **Data Science Projects**
 
@@ -51,6 +51,14 @@ I enjoy working with data, building dashboards, and discovering insights from da
 Power BI dashboard analyzing customer purchasing patterns and sales trends.
 
 🔗 https://github.com/SamadhiDBS/Customer_shopping_behavior_analysis
+
+## Laptop Price Predictor
+
+ML-powered web app that predicts laptop prices based on specs like RAM, CPU, and brand with ~79% accuracy.
+
+🔗 Github : https://github.com/SamadhiDBS/laptop-price-predictor
+
+🔗 🚀 Live Demo : https://huggingface.co/spaces/SamadhiDBS/laptop-price-predictor
 
 ## Wumpus World
 
