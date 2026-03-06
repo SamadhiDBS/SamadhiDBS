@@ -64,7 +64,9 @@ ML-powered web app that predicts laptop prices based on specs like RAM, CPU, and
 
 Simplified Wumpus World game in Python using Pygame. Control the agent, avoid pits and the Wumpus, and collect gold while following sensory hints like breeze and glitter.
 
-🔗 https://github.com/SamadhiDBS/wumpus-world
+🔗 GitHub https://github.com/SamadhiDBS/wumpus-world
+
+🔗 YouTube : https://www.youtube.com/watch?v=WOMj14ULOCc
 
 
 ⭐ More data science and analytics projects will be added soon.
