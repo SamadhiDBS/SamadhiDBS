@@ -15,7 +15,7 @@ I enjoy working with data, building dashboards, and discovering insights from da
 
 ## 🚀 Current Focus
 
-🔭 Recently worked on **Laptop Price Predictor | Live ML-Powered Price Estimation**  
+🔭 Recently worked on **Airline Satisfaction Analysis | Live ML-Powered Satisfaction Estimation + Power BI**  
 🌱 Learning **Machine Learning, Power BI, and Python for Data Analysis**  
 👯 Looking to collaborate on **Data Science Projects**
 
@@ -91,4 +91,5 @@ Simplified Wumpus World game in Python using Pygame. Control the agent, avoid pi
 ---
 
 ⭐ Feel free to explore my repositories and projects!
+
 ⭐ If you find these projects useful, consider giving it a star!
