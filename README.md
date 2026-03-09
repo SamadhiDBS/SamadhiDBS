@@ -46,6 +46,16 @@ I enjoy working with data, building dashboards, and discovering insights from da
 
 # 📂 Featured Projects
 
+## Airline Satisfaction Analysis
+
+This project predicts airline passenger satisfaction using a machine learning model and analyzes key factors affecting satisfaction through Power BI dashboards and SQL.
+
+🔗 Github : https://github.com/SamadhiDBS/Airline-satisfaction-analysis
+
+🔗 🚀 Live Demo : https://huggingface.co/spaces/SamadhiDBS/airline-satisfaction-predictor
+
+
+
 ## Customer Shopping Behavior Analysis
 
 Power BI dashboard analyzing customer purchasing patterns and sales trends.
@@ -81,3 +91,4 @@ Simplified Wumpus World game in Python using Pygame. Control the agent, avoid pi
 ---
 
 ⭐ Feel free to explore my repositories and projects!
+⭐ If you find these projects useful, consider giving it a star!
