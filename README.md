@@ -15,7 +15,7 @@ I enjoy working with data, building dashboards, and discovering insights from da
 
 ## 🚀 Current Focus
 
-🔭 Recently worked on **Airline Satisfaction Analysis | Live ML-Powered Satisfaction Estimation + Power BI**  
+🔭 Recently worked on **E-Commerce Customer Intelligence Platform | ML + FastAPI + Power BI**  
 🌱 Learning **Machine Learning, Power BI, and Python for Data Analysis**  
 👯 Looking to collaborate on **Data Science Projects**
 
@@ -46,6 +46,16 @@ I enjoy working with data, building dashboards, and discovering insights from da
 
 # 📂 Featured Projects
 
+## E-Commerce Customer Intelligence Platform
+
+E-Commerce Customer Intelligence Platform – Segments customers using K-Means, predicts Customer Lifetime Value (CLV) with 95% accuracy, visualizes insights in Power BI and serves predictions via FastAPI API.
+
+🔗 Github : https://github.com/SamadhiDBS/ecommerce-customer-api
+
+🔗 🚀 Live Demo : https://huggingface.co/spaces/SamadhiDBS/ecommerce-customer-api
+
+
+
 ## Airline Satisfaction Analysis
 
 This project predicts airline passenger satisfaction using a machine learning model and analyzes key factors affecting satisfaction through Power BI dashboards and SQL.
@@ -62,6 +72,8 @@ Power BI dashboard analyzing customer purchasing patterns and sales trends.
 
 🔗 https://github.com/SamadhiDBS/Customer_shopping_behavior_analysis
 
+
+
 ## Laptop Price Predictor
 
 ML-powered web app that predicts laptop prices based on specs like RAM, CPU, and brand with ~79% accuracy.
@@ -69,6 +81,8 @@ ML-powered web app that predicts laptop prices based on specs like RAM, CPU, and
 🔗 Github : https://github.com/SamadhiDBS/laptop-price-predictor
 
 🔗 🚀 Live Demo : https://huggingface.co/spaces/SamadhiDBS/laptop-price-predictor
+
+
 
 ## Wumpus World
 
