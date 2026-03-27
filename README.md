@@ -13,6 +13,13 @@ I enjoy working with data, building dashboards, and discovering insights from da
 
 ---
 
+## 🌐 Portfolio
+
+Check out my personal portfolio website: **https://huggingface.co/spaces/SamadhiDBS/my-portfolio**  
+Feel free to explore and download my CV there!
+
+---
+
 ## 🚀 Current Focus
 
 🔭 Recently worked on **E-Commerce Customer Intelligence Platform | ML + FastAPI + Power BI**  
@@ -55,6 +62,14 @@ E-Commerce Customer Intelligence Platform – Segments customers using K-Means, 
 🔗 🚀 Live Demo : https://huggingface.co/spaces/SamadhiDBS/ecommerce-customer-api
 
 
+## Personal Portfolio
+
+My personal portfolio website showcasing my skills, projects, and experience as a Computer Science undergraduate specializing in Data Science.
+
+🔗 GitHub: https://github.com/SamadhiDBS/my-portfolio
+
+🔗 🌐 Portfolio: https://huggingface.co/spaces/SamadhiDBS/my-portfolio
+
 
 ## Airline Satisfaction Analysis
 
@@ -92,7 +107,7 @@ Simplified Wumpus World game in Python using Pygame. Control the agent, avoid pi
 
 🔗 YouTube : https://www.youtube.com/watch?v=WOMj14ULOCc
 
-
+##
 ⭐ More data science and analytics projects will be added soon.
 
 ---
