@@ -98,6 +98,13 @@ ML-powered web app that predicts laptop prices based on specs like RAM, CPU, and
 🔗 🚀 Live Demo : https://huggingface.co/spaces/SamadhiDBS/laptop-price-predictor
 
 
+## Chronic Kidney Disease Classification using k-NN
+
+k-NN model to predict Chronic Kidney Disease (CKD) using clinical data, achieving 98.75% accuracy and 100% sensitivity with full ML pipeline implementation.
+
+🔗 Github : https://github.com/SamadhiDBS/Chronic-Kidney-Disease-Classification-using-k-NN
+
+
 
 ## Wumpus World
 
