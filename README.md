@@ -22,8 +22,8 @@ Feel free to explore and download my CV there!
 
 ## 🚀 Current Focus
 
-🔭 Recently worked on **E-Commerce Customer Intelligence Platform | ML + FastAPI + Power BI**  
-🌱 Learning **Machine Learning, Power BI, and Python for Data Analysis**  
+🔭 Recently worked on **Hospital Readmission Risk Prediction System | ML + Streamlit**  
+🌱 Learning **Machine Learning, Power BI and Python for Data Analysis**  
 👯 Looking to collaborate on **Data Science Projects**
 
 ---
@@ -52,6 +52,15 @@ Feel free to explore and download my CV there!
 ---
 
 # 📂 Featured Projects
+
+## Hospital Readmission Risk Prediction System
+
+An AI-powered system that predicts the risk of hospital readmission within 30 days using patient data. It helps healthcare providers identify high-risk patients early and improve post-discharge care decisions.
+
+🔗 Github : https://github.com/SamadhiDBS/hospital_readmission
+
+🔗 🚀 Live Demo : https://huggingface.co/spaces/SamadhiDBS/hospital-readmission
+
 
 ## E-Commerce Customer Intelligence Platform
 
@@ -88,31 +97,6 @@ Power BI dashboard analyzing customer purchasing patterns and sales trends.
 🔗 https://github.com/SamadhiDBS/Customer_shopping_behavior_analysis
 
 
-
-## Laptop Price Predictor
-
-ML-powered web app that predicts laptop prices based on specs like RAM, CPU, and brand with ~79% accuracy.
-
-🔗 Github : https://github.com/SamadhiDBS/laptop-price-predictor
-
-🔗 🚀 Live Demo : https://huggingface.co/spaces/SamadhiDBS/laptop-price-predictor
-
-
-## Chronic Kidney Disease Classification using k-NN
-
-k-NN model to predict Chronic Kidney Disease (CKD) using clinical data, achieving 98.75% accuracy and 100% sensitivity with full ML pipeline implementation.
-
-🔗 Github : https://github.com/SamadhiDBS/Chronic-Kidney-Disease-Classification-using-k-NN
-
-
-
-## Wumpus World
-
-Simplified Wumpus World game in Python using Pygame. Control the agent, avoid pits and the Wumpus, and collect gold while following sensory hints like breeze and glitter.
-
-🔗 GitHub https://github.com/SamadhiDBS/wumpus-world
-
-🔗 YouTube : https://www.youtube.com/watch?v=WOMj14ULOCc
 
 ##
 ⭐ More data science and analytics projects will be added soon.
